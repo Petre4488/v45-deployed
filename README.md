@@ -15,7 +15,7 @@ Empower yourself with instant data definitions right within the app. Quickly gra
 Embark on uncharted paths and reveal extraordinary insights. From total strike counts to average masses, Meteor Shower Page showcases comprehensive information, ensuring you're in the know. 📊✨
 ## Ready to explore the mysteries of meteorites? ⭐🌠
 ## Let’s go!
-##link
+## [Live Link!!](https://ornate-gumption-94dfce.netlify.app/)
 
 
 ## User Stories [Trello](https://trello.com/b/SAvvNjHT/fireball)
@@ -59,6 +59,10 @@ So that I can clearly see the resulted data
 - While hovering over the map, the data should also be displayed on a small pop-up
 - There should be a paragraph with the numbers of meteorite strikes
 - There should be a scrollable detailed data display that shows meteorite strike history based on the search criteria
+
+##### …To see more User Stories and all related Documants check our [Trello](https://trello.com/b/SAvvNjHT/fireball)
+
+
 
 ## Tech Stack
 
@@ -106,9 +110,11 @@ Only updated from the development branch Pull Requests. This branch always refle
 ## team
 
 ### Developers: [Ana Popovic](https://www.linkedin.com/in/franecode/), [Isaac Anim](https://www.linkedin.com/in/yawcoder/), [Eva Langerova](https://www.linkedin.com/in/eva-langerova-61059027a/), [Mustapha Anthonio](https://www.linkedin.com/in/mustapha-anthonio/), [Vruti Shah](https://www.linkedin.com/in/vruti-shah-29a393130/)
-### Product Owners: [Petre Circeag](https://www.linkedin.com/in/petre-circeag/), [Zahra Motlagh](https://www.linkedin.com/in/zahra-motlagh/)
-### Agile Coach: [Christopher Maxwell](https://www.linkedin.com/in/christopher-maxwell-a59603240/)
-### Chingu Coach: [Jim Medlock ](https://www.linkedin.com/in/jdmedlock/), 
+###  Developers Lead: [Ana Popovic](https://www.linkedin.com/in/franecode/)
+###  UI/UX Designer: [Vruti Shah](https://www.linkedin.com/in/vruti-shah-29a393130/)
+###  Product Owners: [Petre Circeag](https://www.linkedin.com/in/petre-circeag/), [Zahra Motlagh](https://www.linkedin.com/in/zahra-motlagh/)
+###  Agile Coach: [Christopher Maxwell](https://www.linkedin.com/in/christopher-maxwell-a59603240/)
+###  Chingu Coach, Chingu Guide: [Jim Medlock ](https://www.linkedin.com/in/jdmedlock/), [Bahareh Amali](https://www.linkedin.com/in/baharehamali/) 
 
 
 
